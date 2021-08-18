@@ -1,5 +1,5 @@
 // Plum Tree Garden
-// PluginEditor.h
+// PluginProcessor.cpp
 
 
 /*
